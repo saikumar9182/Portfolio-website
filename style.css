@@ -147,5 +147,91 @@ padding-top: 5rem;
     font-size: large;
 }
 
+span {
+    display: inline-block;
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    
+}
+#html {
+     max-width: 1.25rem; 
+     max-height: 1.25rem;
+}
+#w1 {
+    padding-top:0.5rem;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    border-style: outset;
+    border-color: var(--primary-color);
+}
+#css {
+    max-width: 1.25rem;
+    max-height: 1.25rem;
+}
+#w2 {
+    padding-top:0.5rem;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    border-style: outset;
+    border-color: var(--primary-color);
+}
+#js {
+    max-width: 1.25rem;
+    max-height: 1.25rem;
+}
+#w3 {
+    padding-top:0.5rem;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    border-style: outset;
+    border-color: var(--primary-color);
+}
+#njs {
+    max-width: 1.5rem;
+}
+#w4 {
+    padding-top:0.5rem;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    border-style: outset;
+    border-color: var(--primary-color);
+}
+
+#ntly {
+    max-width: 1.1rem;
+}
+#wh {
+    padding-top:0.3rem;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    border-style: outset;
+    border-color: var(--primary-color);
+}
+#githb {
+    max-width: 1rem;
+}
+#vcs2 {
+    padding-top:0.3rem;
+    padding-left: 0.1rem;
+    padding-right: 0.2rem;
+    border-style: outset;
+    border-color: var(--primary-color);
+}
+.butt{
+    text-align: center;
+}
+
+.butt:hover{
+    background-color: black;
+    border-bottom-right-radius: 50px;
+   border-top-left-radius: 50px;
+   border-bottom-left-radius: 10px;
+   border-top-right-radius: 10px;
+}
+
+#gito{
+    max-width: 2rem;
+}
+
 
 
