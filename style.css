@@ -7,6 +7,10 @@
     --off-white: #F3F4F6;
 }
 
+h1{
+    font-size: 1.5em;
+}
+
 body{
     font-family: 'Montserrat', sans-serif;
     margin: 0px;
@@ -52,6 +56,7 @@ hr{
     padding: 0.5rem 1rem;
     margin-top: 1rem;
     margin-bottom: 1rem;
+    margin-left: 10px;
 }
 .link-active{
     font-weight: bold;
@@ -85,9 +90,9 @@ hr{
 }
 
 .navigation .nav-pills{
-    /* text-align: right; */
-    display: flex;
-    justify-content: center;
+    text-align: right;
+    /* display: flex;
+    justify-content: center; */
 }
 
 .navigation .link{
@@ -238,6 +243,11 @@ span {
 
 #gito{
     max-width: 2rem;
+}
+
+.flexr{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .project-list{display:flex; flex-direction:column-reverse; }
