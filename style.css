@@ -252,5 +252,24 @@ span {
 
 .project-list{display:flex; flex-direction:column-reverse; }
 
+.blog-btn{
+    background-color: #4AC353;
+    padding: 15px;
+    font-size: medium;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    
+}
+
+.blog-btn a{
+    text-decoration: none;
+    color: white;
+}
+
+.blog-btn:hover{
+    background-color: black;
+}
+
 
 
